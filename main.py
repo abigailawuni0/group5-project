@@ -14,7 +14,8 @@ print(add(4,5))
 print(subtract(10,3))
 
 # TODO: Student 3 - import and call celsius_to_fahrenheit() here
-
+from student3_temperature import celsius_to_fahrenheit
+print(celsius_to_fahrenheit(0))
 # TODO: Student 4 - import and call count_words() here
 
 # TODO: Student 5 - import and call is_palindrome() here

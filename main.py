@@ -9,6 +9,9 @@ from student1 import get_greeting
 print(get_greeting("Student 1"))
 
 # TODO: Student 2 - import and call add()/subtract() here
+from student2_calculator import add,subtract
+print(add(4,5))
+print(subtract(10,3))
 
 # TODO: Student 3 - import and call celsius_to_fahrenheit() here
 
